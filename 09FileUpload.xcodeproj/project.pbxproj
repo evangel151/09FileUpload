@@ -26,6 +26,7 @@
 		003DFE491CB2766400F141FA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		003DFE4C1CB2766400F141FA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		003DFE4E1CB2766400F141FA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		00BF1BB51CB746F500D2FE0F /* upload.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = upload.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +68,7 @@
 				003DFE4B1CB2766400F141FA /* LaunchScreen.storyboard */,
 				003DFE4E1CB2766400F141FA /* Info.plist */,
 				003DFE3D1CB2766400F141FA /* Supporting Files */,
+				00BF1BB51CB746F500D2FE0F /* upload.h */,
 			);
 			path = 09FileUpload;
 			sourceTree = "<group>";
@@ -298,6 +300,7 @@
 				003DFE531CB2766400F141FA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
